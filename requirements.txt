@@ -1,0 +1,14 @@
+# Core Processing & ML Libraries
+numpy
+Pillow
+opencv-python
+scikit-image
+einops
+matplotlib
+mangadex-downloader
+nhentai
+
+# GUI and Theming
+sv-ttk
+darkdetect
+pywinstyles; sys_platform == 'win32'
